@@ -1,0 +1,8 @@
+prefix=/home/ionz/Documents/udacity_robot_engineer/catkin_ws/src/ball_chaser/build/devel
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/home/ionz/Documents/udacity_robot_engineer/catkin_ws/src/ball_chaser/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ionz/Documents/udacity_robot_engineer/catkin_ws/src/ball_chaser/build/devel/setup.sh
