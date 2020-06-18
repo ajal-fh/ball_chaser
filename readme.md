@@ -10,7 +10,7 @@ Provides a ROS service server to command linear and angular velocities to a robo
 
 **Available service**: _/ball_chaser/command_robot_
 
-###Usage
+### Usage
 
 ```bash
  
